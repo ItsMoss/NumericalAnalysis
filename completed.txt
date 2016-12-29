@@ -3,20 +3,20 @@ Moseph Jackson-Atogi, mmj9
 
 I have completed the steps as follows
 -----------------------------------------------------------------------------
-Step 1 (Complete):
+Step 1:
 
 My program is able to parse both "define" and "evaluate" commands and output the corresponding strings successfully. Keep in mind that I decided to keep the commands, and all others, case insensitive, "DEFine" and "EvalUate" are still valid commands, while anything else fails (even if it is a word that contains "define" or "evaluate", ie "defined" or "evaluated").
 
 I have provided for test case files for this step specifically, all called test1[letter].txt. These test for proper commands, operators, left and right sided operands, function names, variable names, as well as return values on the evaluate side. For all of these test cases, they should valgrind cleanly without aborting, rather printing out appropriate error messages.
 
-Step 2 and 3 (Complete):
+Step 2 and 3:
 
 My program is able to parse both "numint" and "mcint" commands and output corresponding results successfully. Test cases for these are in test2[letter].txt and test3[letter].txt respectively.
 
 Both should valgrind cleanly and print corresponding error messages without aborting or leaking memory.  These test for properly formatted strings, valid stepsize (and random iteration count), number of parameters, valid parameter bounds, defined functions, etc.
 
-Step 4 (Incomplete:
+Step 4:
 
-My program is capable of parsing both max and min commands and creating a struct for future evaluation, but the actual finding of extrema has not been completed.
+My program is capable of parsing both max and min commands and creating a struct for future evaluation, but the actual finding of extrema has not been implemented.
 
-If provided more time, I would create a function 'findExtreme' which took in a pointer to the gradient struct I have created build a vector of doubles which would represent the gradient vector by taking partials (ie evaluating the corresponding function at start point) then multiplying result by gamma, updating the current point and then checking against converge distance, repeating this cycle in a while loop until distance between points is less than it!
+In order to accomplish this, I would create a function 'findExtreme' which took in a pointer to the gradient struct I have created build a vector of doubles which would represent the gradient vector by taking partials (ie evaluating the corresponding function at start point) then multiplying result by gamma, updating the current point and then checking against converge distance, repeating this cycle in a while loop until distance between points is less than it!
