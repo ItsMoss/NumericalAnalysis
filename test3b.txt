@@ -1,0 +1,10 @@
+define (a x y) = (+ x y)
+define (b x y) = (* y (sqrt (+ x 2)))
+define (c z) = (/ 48 z)
+define (d) = 5
+define (e x) = (a (pow x 2) 3)
+mcint a 223 2 2.1 7 7.1
+mcint b 78 -3 3 2 5
+mcint c 575 5 7
+mcint d 58
+mcint e 1000 -2 4 3 6.8

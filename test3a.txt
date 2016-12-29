@@ -1,0 +1,16 @@
+define (f x) = (+ 6 x)
+mcint f 30 2 8
+mcint f 2.5 2 8 3
+mcint g 35 2 8
+mcint f 10 2 8
+mcint (f 40 2 8
+mcint f -10 2 8
+mcint f 20 2 0
+mcints f 50 2 8
+mc int f 5 2 8
+mcint f 35 2 2
+define (m o ss) = (* o ss)
+mcint m 55 -1 1 2 4
+mcint f 12 2 2.1
+define (g ra d )  = ( +  (sqrt d  ) ra)
+mcint g 29 0 4 -3 7

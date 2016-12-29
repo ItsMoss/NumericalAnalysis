@@ -1,0 +1,10 @@
+define (a x y) = (+ x y)
+define (b x y) = (* y (sqrt (+ x 2)))
+define (c z) = (/ 48 z)
+define (d) = 5
+define (e x) = (a (pow x 2) 3)
+evaluate (a 3 6)
+evaluate (b (c 8) 3)
+evaluate (c (d))
+evaluate (c 8)
+evaluate (e (a 1 8))

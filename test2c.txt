@@ -1,0 +1,15 @@
+define (what is up) = (- is ( pow up 7) )
+define (a x) = x
+define (  nine ) = (+ 4 5)
+define ( b moss cage ruby ) = (* ruby ( + moss cage )  )
+define ( c   c i$ fOr cool!) = ( * (/ fOr (+ c (   sqrt cool!  )  ) ) i$ )
+define ( testing is fun ) = (* is (pow (sqrt fun) 3 ) )
+define ( d + */ pow ) = ( + + ( pow ( a pow  )  */ ) )
+define (colors red blue green ) = ( + red ( + blue (* green 5 ) ) )
+define (ez) = 123
+numint what 1 -3 5 1 4
+numint a 0.004 2 6
+numint nine
+numint b 0.4 2.5 8.8 -3 4.5 0 1.6
+numint testing 10 0 50 36 81
+numint colors 200 -800 1200 -25.5 1734.98 0 2400

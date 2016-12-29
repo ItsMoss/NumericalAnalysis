@@ -1,0 +1,15 @@
+define (f x) = (+ 6 x)
+numint f 0.5 2 8
+numint f 0.5 2 8 3
+numint g 0.5 2 8
+numint f 10 2 8
+numint (f 0.5 2 8
+numint f -1 2 8
+numint f 0.5 2 0
+numints f 0.5 2 8
+num int f 0.5 2 8
+numint f 0.5 2 2
+define (m o ss) = (* o ss)
+numint m 1 -1 1 2 4
+define (g ra d) = ( + ( sqrt d ) ra )
+numint g 0.5 0 4 -3 7

@@ -1,0 +1,14 @@
+define (c   r e   w )   = (   + (pow -5 (* r r)  ) r )
+DEFine (m o  s) = ( * o (+ s 18 )  )
+defIne (d u k e) = (- 8 (   * (/ k e) (+  51 e) ) )
+define (e e) = (d 2 5 (+ 7 e))
+define (WOLFP @ cc K!) = ( sqrt ( * cc ( pow K! @ ) ) )
+mCInT c 25 -6 -3 2.5 6.3 0 2
+mcint m m 25 3 8 -7 0
+mcint m 250 3 8 c -7 0
+mcint m -122 3 8 -7 0
+mcint d 500 3 7 -1.5 0 4 5
+mcint E 68 4 10
+mcint e 30000 0 10.59 13
+mcint wolfp 2112 -15 -12 -4.5 2.4 4.6 13.8
+mcint WOLFP 2112 -15 -12 -4.5 2.4 4.6 13.8

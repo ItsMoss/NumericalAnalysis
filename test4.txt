@@ -1,0 +1,7 @@
+define (why always me ?) = (* ? (- (pow always 2) me) )
+evaluate (why 3 5 -2)
+numint why 0.25 -3 -1 9 12.5 99.5 105
+mcint why 15 -3 -1 9 12.5 99.5 105
+mcint why 100 -3 -1 9 12.5 99.5 105
+max why 3 0.5 0 0 0
+min why 3 0.5 0 0 0

@@ -1,0 +1,16 @@
+Grading at 12/03/2016:04:58:34.674395
+For commit ID 8ce1aee276dabc1321bae69c74784f9b375063b1
+You have a file called completed.txt [good]
+Doing make clean...
+rm -rf *.o numerics
+And make
+g++ -Wall -Werror -std=gnu++98 -pedantic -ggdb3 -c funky.cpp
+g++ -Wall -Werror -std=gnu++98 -pedantic -ggdb3 -c helpers.cpp
+g++ -Wall -Werror -std=gnu++98 -pedantic -ggdb3 -c numerics.cpp
+g++ -Wall -Werror -std=gnu++98 -pedantic -ggdb3 funky.o helpers.o numerics.o -o numerics
+Make appears to have succeeded [good]
+This grade is not your real grade, and just indicates
+that your code 'make's fine.  Your real grade will be
+given after the deadline
+
+Overall Grade: 1

@@ -1,0 +1,24 @@
+DEFINE a x = (- x 7)
+define (a x) = x
+define (  b  3 ) = (+ 4 5)
+define ( b moss cage ruby ) = (* ruby ( + moss cage )  )
+define   ( c   c i$ fOr cool!) = ( * (/ fOr (+ c (   sqrt cool!  )  ) ) i$ )
+define (  c i5 4 c00L ) = -10
+   define  ( d + */ pow ) = ( + + ( pow ( a pow  )  */ ) )
+define ( d a b c ) = ( + a ( + b c ) )
+define (ez) = z
+define (ez) = 5
+   evaluate ( a ( ez ) )
+EVALUATE ( b (ez) 5 6 )
+evaluate (c (b (ez) 3 8) 3 4 1)
+evaluate (c 1 2 3 5)
+evaluate   (     c (f 5) 4 9   )
+evaluate (g 8)
+evaluate (+ (ez) (a 4))
+
+evaluate ( d 2 6 5 )
+evaluate (( d 2 6 5 )
+evaluate ( d 2 6 5 ) )
+evaluate ( d 2 6 ( ez ) )
+evaluate ( D 2 6 5 )
+evaluate (   d ( c 1 2 3 5 ) ( b ( ez ) 5 6 ) 2 )

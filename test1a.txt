@@ -1,0 +1,10 @@
+define (d   r e   w )   = (   + (pow 5 (* r w)  ) e )
+DEFine (m o  s) = ( sqrt o (+ s 18 )  )
+definitely (f a i l) = 5
+defIne (d u k e) = (- 8 (   * (/ k e) (+  51 e) ) )
+define (l e s ) = ( + m (* e s ) )
+define (m e) = (d 2 5 (+ 7 e))
+evaluate (d 5 7 2)
+evaluate (d 1 2 0.5)
+evaluate (m 5)
+evaluate (d (m 2) 3 4)
